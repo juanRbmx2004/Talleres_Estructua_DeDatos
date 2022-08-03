@@ -1,5 +1,5 @@
 package Taller_1
 
 /*
-Juan Sebastian Ruiz Fernandez
+Juan Sebastian Ruiz Fernande./
  */
